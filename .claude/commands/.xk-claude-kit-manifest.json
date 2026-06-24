@@ -1,0 +1,9 @@
+{
+  "installed": [
+    {
+      "name": "tech-blog",
+      "file": "tech-blog.md",
+      "source": "skills/tech-blog/SKILL.md"
+    }
+  ]
+}
